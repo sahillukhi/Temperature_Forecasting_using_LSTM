@@ -1,0 +1,4 @@
+- Conducted time series analysis on Jena Climate dataset, employing LSTM model for forecasting.
+- Explored data using Python libraries like Pandas, Matplotlib, and Seaborn, ensuring dataset integrity.
+- Prepared data by dividing into smaller time periods, creating additional features, and standardizing.
+- Built LSTM model architecture, trained with Adam optimizer, and evaluated performance using R-squared score (R^2 = 0.8475).
